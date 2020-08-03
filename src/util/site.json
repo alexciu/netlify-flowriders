@@ -1,10 +1,11 @@
 {
   "meta": {
-    "title": "Flowriders",
+    "title": "Experience the flow state with us ! MountainBoard - Snowboard - Brasov - Romania",
     "titleTemplate": "%s",
     "siteUrl": "https://flowriders.netlify.app/",
     "description": "We are a group of MountainBoard instructors teaching the sport in a new, safe way. Experience the \"flow state\" with us !",
     "image": "/assets/logo100new.png",
+    "logo": "/assets/logo100new.png",
     "twitterUsername": ""
   },
   "ga": "UA-141008317-1"

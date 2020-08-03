@@ -1,11 +1,13 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Alin Lupu
+tagline: Snow & Mountain Board Instructor
+featuredImage: /assets/profile.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+My name is Alin Lupu, i live in Brasov, and i've always been passionate about adrenaline (snowboard, mountainboard, downhill, rock climbing, skydiving).  
+
+I've been snowboarding since 2007, and in 2009 I became an ISIA certified snowboard instructor. In 2016 I started the first mountainboarding school in Romania.

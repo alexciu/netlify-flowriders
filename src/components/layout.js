@@ -12,30 +12,30 @@ const query = graphql`
 query LayoutQuery {
   site {
     siteMetadata {
-      siteTitle: title
+      siteTitle: title,
+      siteLogo: logo
     }
   }
 }
 `
 
-const Layout = ({children, className}) => {
+const Layout = ({ children, className }) => {
 
   const { site } = useStaticQuery(query)
-  const { siteTitle } = site.siteMetadata
+  const { siteLogo } = site.siteMetadata
 
   return (
     <div className="primary-container">
       <Header>
-        <Logo title={siteTitle} />
-        <Navigation/>
+        <Logo title={siteLogo} />
+        <Navigation />
       </Header>
       <main className={"container " + className}>
         {children}
       </main>
-      <Footer/>
+      <Footer />
     </div>
   )
 }
 
 export default Layout
-

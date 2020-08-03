@@ -126,4 +126,4 @@ collections:
           - label: "Google Analytics"
             name: ga
             widget: string
-            hint: "Add you tracking ID, for example UA-XXXXXXXXX-X"
+            hint: "UA-141008317-1"
