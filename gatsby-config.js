@@ -16,6 +16,17 @@ module.exports = {
   siteMetadata: settings.meta,
   plugins: [
     {
+      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      options: {
+        fonts: [
+          {
+            family: `Raleway`,
+            variants: [`300`, `400`, `700`, `900`]
+          },
+        ],
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/static/assets/`,
@@ -89,5 +100,6 @@ module.exports = {
       },
     },
     'gatsby-plugin-offline',
+
   ],
 }
