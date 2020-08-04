@@ -1,6 +1,6 @@
 import React from "react"
-import { Link } from "gatsby"
-import { RiHeart2Line, RiFacebookBoxLine, RiYoutubeLine, RiInstagramLine, RiMessengerLine, RiPhoneLine, RiMailLine } from "react-icons/ri";
+// import { Link } from "gatsby"
+import { RiFacebookBoxLine, RiYoutubeLine, RiInstagramLine, RiMessengerLine, RiPhoneLine, RiMailLine } from "react-icons/ri";
 
 
 
@@ -19,7 +19,8 @@ const Footer = () => (
 
     </div>
     <div className="container">
-      <p>©{currentYear} Flow Riders Brasov <span className="icon -love"><RiHeart2Line /></span> by <Link to="/">Ciu</Link></p>
+      <p>©{currentYear} Flow Riders Brasov </p>
+      {/* <span className="icon -love"><RiHeart2Line /></span> nature */}
     </div>
   </footer>
 )

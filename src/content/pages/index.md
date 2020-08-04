@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Alin Lupu
 tagline: Snow & Mountain Board Instructor
-featuredImage: /assets/profile.jpg
+featuredImage: /assets/profile1.jpg
 cta:
   ctaText: Know more
   ctaLink: /about

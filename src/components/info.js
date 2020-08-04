@@ -9,7 +9,8 @@ const Info = () => (
 
       <p className="light">You will get fittet with a helmet, knee and elbow pads, wrist guards, and a backpack that
       will protect your back. The mountainboard also has a brake, so you can stop no matter what. A great rider
-              never gets injured. Safety is our number one priority.</p></div>
+              never gets injured. Safety is our number one priority.</p>
+    </div>
     <div className="section">
 
       <h2 className="center"><span className="icon -info"><RiEmotionHappyLine /></span> Have Fun</h2>
