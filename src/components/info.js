@@ -15,7 +15,7 @@ const Info = () => (
 
       <h2 className="center"><span className="icon -info"><RiEmotionHappyLine /></span> Have Fun</h2>
 
-      <p className="light">That's why you're here for right? We choose a track based on your level of expenrience, to
+      <p className="light">That's why you're here for right? We choose a track based on your level of experience, to
       make it challenging, but also doable. There are many tracks, and the levels go from beginners to extreme.
               We guarantee a smile on your face at the end of the session.</p></div>
     <div className="section">
