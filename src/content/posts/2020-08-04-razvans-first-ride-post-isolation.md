@@ -6,6 +6,7 @@ date: '2020-06-12 14:18'
 description: |-
   Here are some small parts last weekend's run with Razvan on "Drumu vechi".
   Come ride with us, everything is included.
+featuredImage: /assets/Valea_cu_apa_Roxana_Daniel_Marius2.jpg
 ---
 Here are some small parts last weekend's run with Razvan on "Drumu vechi". Come ride with us, everything is included.
 
