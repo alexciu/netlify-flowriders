@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 const Logo = (props) => (
   <div className="site-logo">
-    <Link to="/"><img src={props.title} alt="logo" /></Link>
+    <Link to="/"><img src={props.logoImage} alt="site logo" /></Link>
   </div>
 )
 

@@ -3,6 +3,11 @@ template: contact-page
 slug: /contact
 title: Get in touch
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+Reserve your spot @
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+[lupu.alin@gmail.com](mailto:lupu.alin@gmail.com)  
+[+40 726 306 206](tel:+40 726 306 206)
+
+You can watch us on [youtube](https://www.youtube.com/user/doomedro), [facebook](https://www.facebook.com/FlowRidersBrasov/) and [instagram](https://www.instagram.com/mbi_ro/)
+
+You can send us a message on [facebook messenger](https://m.me/FlowRidersBrasov) or using the bellow form:

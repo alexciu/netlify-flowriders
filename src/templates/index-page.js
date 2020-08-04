@@ -6,6 +6,7 @@ import { RiArrowRightSLine } from "react-icons/ri"
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
 import SEO from "../components/seo"
+import Info from "../components/info"
 
 export const pageQuery = graphql`
   query HomeQuery($id: String!){
@@ -58,6 +59,7 @@ const HomePage = ({ data }) => {
           ) : ""}
         </div>
       </div>
+      <Info />
       <BlogListHome />
     </Layout>
   )
