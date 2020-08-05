@@ -535,7 +535,9 @@ article img {
 }
 
 
-
+#gatsby-focus-wrapper>div>main>article>header>div {
+  max-width: 100% !important;
+}
 
 @import "utility";
 
