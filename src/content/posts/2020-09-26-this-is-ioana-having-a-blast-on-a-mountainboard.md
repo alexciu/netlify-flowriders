@@ -4,7 +4,7 @@ title: About last night
 slug: /About_last_night
 date: 2020-09-05 12:35
 description: About last night. Mountainboard lessons Brasov Romania.
-featuredImage: /assets/118765711_10158195525674160_989517554688091744_o.jpg
+featuredImage: /assets/118622845_10158179321389160_5213211184179636290_n.jpg
 ---
 About last night
 
