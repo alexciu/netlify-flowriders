@@ -1,13 +1,15 @@
 ---
 template: blog-post
-title: This is Ioana, having a blast on a mountainboard :)
-slug: /Having_a_blast_on_mountainboard
-date: 2020-09-10 12:35
-description: Having a blast on a mountainboard :). Mountainboard lessons Brasov Romania.
-featuredImage: /assets/118652758_10158174981349160_4069591845587471641_o.jpg
+title: About last night
+slug: /About_last_night
+date: 2020-09-05 12:35
+description: About last night. Mountainboard lessons Brasov Romania.
+featuredImage: /assets/118765711_10158195525674160_989517554688091744_o.jpg
 ---
-This is Ioana, having a blast on a mountainboard :)
+About last night
 
-<iframe width="883" height="662" src="https://www.youtube.com/embed/vh1dG8zo0g4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](/assets/118889257_10158192593694160_7459508632315597571_o.jpg)
 
-![]()
+![](/assets/118716390_10158192912599160_1237637439211980836_o.jpg)
+
+![](/assets/118736277_10158192870864160_2719904326732204353_n.jpg)
