@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: "Wet and dirty - not for everyone "
+title: "Wet and dirty "
 slug: /.wet
 date: 2021-07-27 22:39
 description: Wet and dirty mountainboarding
