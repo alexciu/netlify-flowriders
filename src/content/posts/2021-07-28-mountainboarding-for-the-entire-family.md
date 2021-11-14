@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Mountainboarding for the entire family !
-slug: /.slug
+slug: mountainboarding-for-the-entire-family
 date: 2021-07-28 13:49
 description: "Mountainboarding for the entire family "
 featuredImage: /assets/220218925_10158995663079160_3039362645577132968_n.jpg
