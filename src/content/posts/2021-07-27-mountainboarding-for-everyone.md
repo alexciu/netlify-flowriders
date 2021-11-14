@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Mountainboarding for everyone
-slug: mountainboarding-for-everyone
+slug: /mountainboarding-for-everyone
 date: 2021-07-27 22:28
 description: Mountainboarding for everyone
 featuredImage: /assets/219577561_10158995663029160_1165507229915879506_n.jpg
