@@ -50,8 +50,11 @@ const Contact = ({data}) => {
           <p>
             <label>Message<textarea name="message"></textarea></label>
           </p>
+          
           <p className="text-align-right">
+            <div data-netlify-recaptcha="true"></div>
             <button className="button" type="submit">Send Message <span className="icon -right"><RiSendPlane2Line/></span></button>
+            
           </p>
         </form>
       </div>
